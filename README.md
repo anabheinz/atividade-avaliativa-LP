@@ -1,1 +1,1 @@
-# atividade-avaliativa-LP
+Atividade Avaliativa 02 - Lógica de Programação
